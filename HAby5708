@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Première version du site MA DOSE NATURE"
+git branch -M main
+git remote add origin https://github.com/Haby5708/ma-dose-nature.git
+git push -u origin main
